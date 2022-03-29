@@ -10,6 +10,7 @@
 
 const mail_list = ["smith@gmail.com" , "my@gmail.com", "rossi@gmail.com"]
 
+
 // log singole mail
 
 // for (let i = 0; i < mail_list.length; i++){
@@ -22,7 +23,6 @@ const mail_list = ["smith@gmail.com" , "my@gmail.com", "rossi@gmail.com"]
 //     }
     
 // }
-
 
 
 
